@@ -1,6 +1,8 @@
-建议移步CSDN博客：https://blog.csdn.net/lingpy/article/details/107288758 浏览本说明
+
 Hierarchical-text-classify
  ====
+建议移步CSDN博客：https://blog.csdn.net/lingpy/article/details/107288758 浏览本说明
+
 数据来源：中文期刊文献数据(约70万篇)提取特征并训练分类器，完成对未知文献的中图法三级分类号标引工作
 
 
